@@ -1,0 +1,14 @@
+<p>TO DO LIST:</p>
+<table border="1" cellpadding="0" cellspacing="2" id="doc_input">
+	<tbody>
+		<tr>
+			<td colspan="2"><b>Write your to do list here</b></td>
+		</tr>
+		<tr>
+			<td><textarea cols="40" id="todolist" name="todolist_mandatory" rows="5" type="text" value=""></textarea></td>
+			<td>For Widget help, click <a href="https://github.com/JMante1/LabArchives_ToDoList" target="_blank">here</a>.</td>
+		</tr>
+	</tbody>
+</table>
+
+<div id="doc">&nbsp;</div>
