@@ -39,7 +39,6 @@ my_widget_script =
 		for (i = 0; i < splittodo.length; i++) {
   			//text += splittodo[i] + "<br>";
             text+= '<input type="checkbox" id="item'+i+'" name="item'+i+'" value="Bike"><label for="vehicle'+i+'">'+splittodo[i]+'</label><br>'
-            //var text = text.concat(" ", text1);
 			}
       html_code = '<div><span>'+text+'</span></div>'}
     
