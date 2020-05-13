@@ -34,7 +34,7 @@ my_widget_script =
 	// If the link is not in an iframe, put it in one
 	if (todolist.search(/<iframe/i) == -1) {
       var i;
-      var splittodo = todolist.split(","); 
+      var splittodo = todolist.split("\n"); 
       var text="";
 		for (i = 0; i < splittodo.length; i++) {
   			//text += splittodo[i] + "<br>";
